@@ -1,0 +1,80 @@
+****Sample Output****
+
+Test.java
+
+Stephens-MacBook-Pro:Desktop Stephen$ javac Test.java
+Stephens-MacBook-Pro:Desktop Stephen$ java Test
+Dyanmic Functions:
+
+x = -1/5
+y = -1/2
+x == y ? false
+x compared to y = 1
+x + y = -7/10
+x - y = 3/10
+x / y = 2/5
+x * y = 1/10
+
+a = 3
+b = -1/5
+Static Functions: 
+
+a + b = 14/5
+a - b = 16/5
+a / b = -15
+a * b = -3/5
+
+
+*********************************************************
+TestC.java:
+*********************************************************
+Stephens-MacBook-Pro:Desktop Stephen$ javac TestC.java
+Stephens-MacBook-Pro:Desktop Stephen$ java TestC
+
+***First Test
+
+x = 2.0 - 3.0i
+y = 4.0 + 2.0i
+
+Dyanmic Functions:
+
+x + y = 6.0 - 1.0i
+x - y = -2.0 - 5.0i
+x / y = 0.09999999999999998 - 0.7999999999999998i
+x * y = 14.0 - 8.0i
+
+Polar Form:
+
+x -> radius = 3.605551275463989 angle = -0.982793723247329
+y -> radius = 4.47213595499958 angle = 0.4636476090008061
+
+Static Functions:
+
+x + y = 6.0 - 1.0i
+x - y = -2.0 - 5.0i
+4.47213595499958
+x / y = 0.09999999999999998 - 0.7999999999999998i
+x * y = 14.0 - 8.0i
+
+***Second Test
+
+
+Dyanmic Functions:
+
+x + y = -2.0 - 6.0i
+x - y = 0.0
+x / y = 0.9999999999999998
+x * y = -8.0 + 6.0i
+
+Polar Form:
+
+x -> radius = 3.1622776601683795 angle = 1.2490457723982544
+y -> radius = 3.1622776601683795 angle = 1.2490457723982544
+
+Static Functions:
+
+x + y = -2.0 - 6.0i
+x - y = 0.0
+3.1622776601683795
+x / y = 0.9999999999999998
+x * y = -8.0 + 6.0i
